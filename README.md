@@ -5,7 +5,7 @@ This code is usefull if you want to download BambooHR employees, department, loc
 
 ## Request Rule:
 1. All requests made to BambooHR APIs must be sent over HTTPS.
-2. API requests are made to a URL that begins with: https://api.bamboohr.com/api/gateway.php/{company subdomain name}/
+2. API requests are made to a URL that begins with: https://api.bamboohr.com/api/gateway.php/{company-subdomain-name}/
 3. All requests should be in UTF-8.
 
 ## Steps
